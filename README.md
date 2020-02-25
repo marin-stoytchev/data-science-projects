@@ -8,3 +8,6 @@ My data science projects created 2020-01-31
 
 New data science project added 2020-02-08
 - ms_asteroid_xgb: analysis and modeling of "asteroid" data using XGBoost ML algorithm
+
+New machine learning project added 2020-02-25
+- ms_lstm: using LSTM network with PyTorch to model periodic and random types of time-series data
