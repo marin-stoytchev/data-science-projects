@@ -11,3 +11,6 @@ New data science project added 2020-02-08
 
 New machine learning project added 2020-02-25
 - ms_lstm: using LSTM network with PyTorch to model periodic and random types of time-series data
+
+New machine learning project added 2020-02-26
+- ms_cinic10_class4: using resnet18 with pyTorch for image classification of four classes from cinic10 image dataset
