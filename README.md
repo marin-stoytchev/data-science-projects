@@ -15,6 +15,6 @@ New machine learning project added 2020-02-25
 New machine learning project added 2020-02-26
 - ms_cinic10_class4: using resnet18 with pyTorch for image classification of four classes from cinic10 image dataset
 
-New NPL projects added 2020-03-01
+New NLP projects added 2020-03-01
 - ms_qa_transformers: extractive question answering using Transformers developed by Hugging Face, Inc.
 - ms_ner_transformers: named entity recofnition (ner) using Transformers developed by Hugging Face, Inc.
