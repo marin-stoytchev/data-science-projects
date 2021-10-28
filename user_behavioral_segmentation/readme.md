@@ -1,5 +1,5 @@
 # User Behavioral Segmentation
-This project is a part of the work done for a mobile gaming company.  Other projects can be found at https://github.com/marin-stoytchev.
+This project is a part of the work done for a mobile apps company.  Other projects can be found at https://github.com/marin-stoytchev.
 
 #### -- Project Status: Completed
 
@@ -20,7 +20,7 @@ The purpose of this project is to provide user behavioral segmentation. The resu
 * Jupyter 
 
 ## Project Description
-1) A mobile gaming company* wants to determine which of their users are most likely to "convert" (to start generating revenue), so that a targeted promotion is offered to these users. 
+1) A mobile apps company* wants to determine which of their users are most likely to "convert" (to start generating revenue), so that a targeted promotion is offered to these users. 
 
 2) Current data show that only a small percentage of users have converted since installing their app. The available data includes user data, sessions data, spending data and revenue data. We need to use the available data to determine which of the non-revenue users are most likely to convert.
 
